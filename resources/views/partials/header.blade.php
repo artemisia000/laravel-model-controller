@@ -1,11 +1,7 @@
 
 <div class="container">
 
-    <h1>my work</h1>
-    <ul>
-        <li>
-            
-        </li>
-    </ul>
+    <h1>Buongiorno Laravel</h1>
+
 </div>
 
